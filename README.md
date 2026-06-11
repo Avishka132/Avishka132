@@ -1,6 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1500&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Avishka+Sandaruwan" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRjY2N4dGJ4d3A5b2l3M2NwdmZ6b2p4dDZ2eWg0aDJ4Z3Q5a3h2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="400">
+</p>
 <h3 align="center">Computer Networking Undergraduate | Aspiring Network Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avishka132&label=Profile%20views&color=0e75b6&style=flat" alt="avishka132" /> </p>
