@@ -1,86 +1,98 @@
-# Hi 👋, I'm Avishka Sandaruwan
+<h1 align="center">Hi 👋, I'm Avishka Sandaruwan</h1>
+<h3 align="center">Computer Networking Undergraduate | Aspiring Network Engineer | Cybersecurity Enthusiast</h3>
 
-🎓 Computer Networking Undergraduate at NSBM Green University  
-🌱 Interested in Networking, Cybersecurity, VoIP Technologies, and IT Infrastructure  
-💻 Passionate about learning new technologies and solving technical problems  
-📍 Sri Lanka
-
-## About Me
-
-I am a third-year Computer Networks undergraduate with knowledge in computer networking, cybersecurity, VoIP systems, and IT infrastructure. I have worked on academic and group projects involving network design, system implementation, troubleshooting, and web application development. I am currently seeking internship opportunities to gain industry experience and enhance my technical skills.
-
-## Skills
-
-### Programming & Web Development
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Database
-- MySQL
-- phpMyAdmin
-
-### Networking & Security
-- TCP/IP
-- Routing & Switching
-- VoIP
-- Network Troubleshooting
-- Cisco ASA Firewall
-- ACLs
-
-### Tools & Technologies
-- NetBeans
-- VS Code
-- Apache Tomcat
-- Git & GitHub
-- Figma
-- Cisco Packet Tracer
-- VMware
-- Asterisk
-- FreeBSD
-
-## Projects
-
-### 📦 Warehouse Management System
-- Java EE, JSP, Servlets, JDBC, MySQL
-- Developed a web-based warehouse management system.
-- Implemented inventory, order, and user management features.
-- Applied MVC architecture.
-
-### ☎️ VoIP System Deployment
-- Asterisk, FreeBSD, VMware
-- Configured SIP users and dial plans.
-- Implemented VoIP calling environment.
-- Applied firewall and security controls.
-
-### 🔥 Network Security Firewall Configuration
-- Cisco ASA Firewall, ACLs, VLANs
-- Configured secure LAN environments.
-- Implemented access control policies.
-- Tested network security using Cisco Packet Tracer.
-
-### 🎨 RelaxOn Mobile App UI/UX Design
-- Figma
-- Designed user-friendly and accessible interfaces.
-- Created navigation flows for wellness-focused features.
-
-## Certifications
-
-- Python Programming – University of Moratuwa
-- Python for Beginners – University of Moratuwa
-- Web Design for Beginners – University of Moratuwa
-- Networking Devices and Initial Configuration – Cisco Networking Academy
-
-## Connect With Me
-
-📧 Email: avishkasandaruwan399@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-
-💻 GitHub: https://github.com/YOUR-GITHUB-USERNAME
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+## 🚀 About Me
+
+🌱 Currently learning **Network Security, Cybersecurity, Cloud Computing, and Advanced Networking**
+
+🎓 Third-Year Undergraduate at **NSBM Green University**
+
+💡 Interested in **Computer Networks, Cybersecurity, VoIP Technologies, and IT Infrastructure**
+
+🔭 Looking for **Internship Opportunities in Networking, Network Security, and IT Infrastructure**
+
+💬 Ask me about **Networking, Cisco Technologies, VoIP, Network Security, and Java Web Development**
+
+📫 Reach me at: **avishkasandaruwan399@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,github,vscode" />
+</p>
+
+### Networking & Security
+- Cisco Packet Tracer
+- Cisco ASA Firewall
+- Routing & Switching
+- TCP/IP
+- VoIP
+- Network Troubleshooting
+- Asterisk
+- FreeBSD
+- VMware
+
+---
+
+## 📂 Featured Projects
+
+### 📦 Warehouse Management System
+- Java EE, JSP, Servlets, JDBC, MySQL
+- Inventory Management
+- Order Processing
+- MVC Architecture
+
+### ☎️ VoIP System Deployment
+- Asterisk & FreeBSD
+- SIP Configuration
+- Dial Plans
+- PF Firewall & Fail2ban
+
+### 🔥 Network Security Firewall Configuration
+- Cisco ASA Firewall
+- Access Control Lists (ACLs)
+- VLAN Configuration
+- Network Security Testing
+
+### 🎨 RelaxOn Mobile App UI/UX Design
+- Figma
+- User Experience Design
+- Accessibility & Navigation Flows
+
+---
+
+## 📜 Certifications
+
+🏆 Python Programming – University of Moratuwa
+
+🏆 Python for Beginners – University of Moratuwa
+
+🏆 Web Design for Beginners – University of Moratuwa
+
+🏆 Networking Devices and Initial Configuration – Cisco Networking Academy
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+⭐ *"Passionate about building secure, reliable, and scalable network infrastructures."*
