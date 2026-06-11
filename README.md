@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Avishka</h1>
+<h1 align="center">Hi 👋, I'm Avishka Sandaruwan</h1>
 <h3 align="center">Computer Networking Undergraduate | Aspiring Network Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishka132&label=Profile%20views&color=0e75b6&style=flat" alt="avishka132" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishka132" alt="avishka132" /></a> </p>
 
-- 🌱I’m currently working on Currently learning Network Security, Cybersecurity, Cloud Computing ,and Advanced Networking **Currently learning Network Security, Cybersecurity, Cloud Computing ,and Advanced Networking**
+- 🌱 I’m currently working on Currently learning Network Security, Cybersecurity, Cloud Computing ,and Advanced Networking **Currently learning Network Security, Cybersecurity, Cloud Computing ,and Advanced Networking**
 
 - 🔭 Looking for **Internship Opportunities in Networking, Network Security, and IT Infrastructure**
 
