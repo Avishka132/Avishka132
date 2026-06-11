@@ -2,7 +2,7 @@
 <h3 align="center">Computer Networking Undergraduate | Aspiring Network Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
