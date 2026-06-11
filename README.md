@@ -33,6 +33,8 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,github,vscode" />
+<img src="[https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,github,vscode](https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg)" />
+  
 </p>
 
 ### Networking & Security
