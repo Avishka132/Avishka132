@@ -28,27 +28,3 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 📦 Warehouse Management System
-- Java EE, JSP, Servlets, JDBC, MySQL
-- Inventory Management
-- Order Processing
-- MVC Architecture
-
-### ☎️ VoIP System Deployment
-- Asterisk & FreeBSD
-- SIP Configuration
-- Dial Plans
-- PF Firewall & Fail2ban
-
-### 🔥 Network Security Firewall Configuration
-- Cisco ASA Firewall
-- Access Control Lists (ACLs)
-- VLAN Configuration
-- Network Security Testing
-
-### 🎨 RelaxOn Mobile App UI/UX Design
-- Figma
-- User Experience Design
-- Accessibility & Navigation Flows
