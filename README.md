@@ -39,13 +39,15 @@
 - VPN
 - Network Troubleshooting
 
+  ---
+
 ### Cybersecurity
 - Firewall Configuration
 - Network Security
 - Digital Forensics
 - Security Best Practices
 - Vulnerability Assessment
-
+---
 ### Tools & Technologies
 - Cisco Packet Tracer
 - Wireshark
