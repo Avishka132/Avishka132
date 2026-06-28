@@ -46,25 +46,11 @@
 - Security Best Practices
 - Vulnerability Assessment
 
-### Programming
-- Java
-- Java EE
-- Spring Boot
-- HTML
-- CSS
-- JavaScript
-- SQL
-
-### Database
-- MySQL
-
 ### Tools & Technologies
 - Cisco Packet Tracer
 - Wireshark
 - Git
 - GitHub
 - Visual Studio Code
-- NetBeans
-- Apache Tomcat
-- phpMyAdmin
+
 
