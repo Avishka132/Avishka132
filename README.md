@@ -38,9 +38,7 @@
 - NAT
 - VPN
 - Network Troubleshooting
-
-  ---
-
+---
 ### Cybersecurity
 - Firewall Configuration
 - Network Security
